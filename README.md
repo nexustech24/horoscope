@@ -6,7 +6,6 @@ A fun program inspired by Weird Al's song "Your Horoscope for Today." Enter your
 
 - Dropdown menu to select your birth month.
 - Input field to type your birth day.
-- Displays your zodiac sign and a related horoscope.
 - Non-resizable window for a clean and fixed UI.
 
 ## Horoscope Lyrics
